@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+
+authors:
+  - family-names: Pham
+    given-names: Thai Hung
+
+title: "Core Implementation of Zero-Watermarking with Geometric Correction"
+version: "1.0.0"
+date-released: 2026-01-30
+
+repository-code: "https://github.com/hungpt-mta/zero-watermarking-core"
+
+license: BSD-3-Clause
+
+abstract: >
+  This repository provides the core implementation of a zero-watermarking
+  framework with geometric correction and authentication, as reported in the
+  accompanying Scientific Reports manuscript. The code includes the essential
+  algorithms required to reproduce the main results of the study.
